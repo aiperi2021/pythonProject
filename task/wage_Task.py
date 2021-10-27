@@ -8,5 +8,8 @@
 # prints wage 
 
 # Task 3
-# Calculate monthly wage 
+# Calculate monthly wage and print total 
 
+# The company made profit of 10000, in company works 7 people 
+# write a method that will take (profit) and (people) as parameter 
+# and find out how much each person gets after tax (tax is 20%)
