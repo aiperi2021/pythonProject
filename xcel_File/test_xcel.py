@@ -7,13 +7,6 @@ with open('/Users/aiperizh/Desktop/pythonProject/xcel_File/email.csv') as csvfil
             print(row['manager_id'])
  
    
-
-
-     
-        
-
-
-
 # # open the file in the write mode
 # f = open('xcel_File/csv_file', 'w')
 
